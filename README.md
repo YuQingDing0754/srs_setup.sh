@@ -144,4 +144,4 @@ sudo tail -f ~/srs-server/srs/trunk/logs/srs.log
 
 ---
 
-如有任何问题或建议，请提交Issue或联系作者。祝您使用愉快！
+Any Questions? Issue me and enjoy this script!
