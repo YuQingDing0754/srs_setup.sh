@@ -190,7 +190,7 @@ install_srs() {
     compile_srs
 }
 
-# 创建低延迟配置文件 - 最小化配置
+# 最小化配置
 create_config() {
     log "开始创建配置..."
     
